@@ -285,6 +285,12 @@ To use the project in another ServiceNow instance:
 
 The complete ServiceNow project configuration and Update Set are maintained in this repository.
 
+## Demo Video
+
+The project demonstration video is available here:
+
+[Watch the Project Demo](https://drive.google.com/file/d/1m26UDm-i9mLIDjXqlJvRFDnMWcwB3iCl/view?usp=sharing)
+
 ## Author
 
 **Amreen**
