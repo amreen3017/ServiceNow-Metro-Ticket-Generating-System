@@ -182,6 +182,25 @@ Submit Ticket
 QR Code Generation
           ↓
 Metro Ticket QR Display
+```
+
+## Screenshots
+
+### Book A Metro Ticket
+
+![Book A Metro Ticket](Screenshots/book-metro-ticket.png)
+
+### Single Journey Fare Calculation
+
+![Single Journey Fare](Screenshots/fare-calculation-single.png)
+
+### Return Journey Fare Calculation
+
+![Return Journey Fare](Screenshots/fare-calculation-return.png)
+
+### QR Ticket Generation
+
+![QR Ticket](Screenshots/qr-ticket.png)
 ## Update Set
 
 The complete ServiceNow configuration is preserved in the project Update Set.
