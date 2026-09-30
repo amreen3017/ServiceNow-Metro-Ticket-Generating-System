@@ -247,9 +247,14 @@ ServiceNow-Metro-Ticket-Generating-System/
 │
 ├── README.md
 │
+├── Screenshots/
+│   ├── book-metro-ticket.png
+│   ├── fare-calculation-single.png
+│   ├── fare-calculation-return.png
+│   └── qr-ticket.png
+│
 └── ServiceNow/
     └── Metro Ticket Generating System Project.xml
-```
 
 ## Installation / Import
 
